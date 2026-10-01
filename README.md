@@ -1,9 +1,12 @@
 - 👋 Hi, I’m @KPKAnuradhi
 - 👀 I’m interested in Programming, Web Developing
-- 🌱 I’m currently learning at SLIIT
-- 💞️ I’m looking to collaborate on ...
+- 🤖 Interested in Artificial Intelligence and Deep Learning
+- 🌱 Final year IT undergraduate at SLIIT
+- 🔬 Currently working on an AI-Driven medical imaging research project
+- 🌱 Currently learning and improving my skills in Spring Boot and modern web technologies
 - 📫 How to reach me via my email anuradhikavya48@gmail.com
 - 😄 Pronouns: she/her
+- 📍 Sri Lanka
 
 
 <!---
